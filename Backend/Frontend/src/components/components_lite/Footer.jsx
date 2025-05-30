@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import PrivacyPolicy from "./PrivacyPolicy";
-import TermsOfService from "./TermsofService";
+import TermsOfService from "./TermsOfService";
 const Footer = () => {
   return (
     <div>
