@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../components_lite/Navbar'
-import bhaskar from '../Creator/bhaskar.jpg'
-import raghu from '../Creator/raghu.jpeg'
+import bhaskar from '../creator/bhaskar.jpg'
+import raghu from '../creator/raghu.jpeg'
 const Creator = () => {
   return (
     <div>
